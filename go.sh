@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This file is accessible as https://install.direct/go.sh
+# This file is accessible as https://github.com/890604/v2/go.sh
 # Original source is located at github.com/890604/v2ray-core/release/install-release.sh
 
 # If not specify, default meaning of return value:
